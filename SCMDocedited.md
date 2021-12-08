@@ -1,5 +1,4 @@
-![](.//media/image1.png){width="3.18125in"
-height="2.7083333333333335in"}
+![](.//media/image1.png)
 
 \[1\]
 
@@ -10,9 +9,9 @@ produce and distribute a specific product to the final buyer. This
 network includes different activities, people, entities, information,
 and resources. The supply chain also represents the steps it takes to
 get the product or the service from its original state to the customer.
-[]{dir="rtl"}Companies develop supply chains so they can reduce their
+[]Companies develop supply chains so they can reduce their
 costs and remain competitive in the business landscape.
-[]{dir="rtl"}Supply chain management is a crucial process because an
+[]Supply chain management is a crucial process because an
 optimized supply chain results in lower costs and a faster production
 cycle.
 
@@ -24,8 +23,7 @@ decrease costs, and impact a company\'s bottom line.
 
 ## Understanding Supply Chains
 
-![](.//media/image2.jpg){width="6.268055555555556in"
-height="2.448611111111111in"}A supply chain involves a series of steps
+![](.//media/image2.jpg)A supply chain involves a series of steps
 to get a product or a service to the customer. The steps include moving
 and transforming raw materials into finished products, transporting
 those products, and distributing them to the end-user. The entities
