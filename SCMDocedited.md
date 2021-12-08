@@ -1,5 +1,4 @@
-![](.//media/image1.png){width="3.18125in"
-height="2.7083333333333335in"}
+![](.//media/image1.png)
 
 \[1\]
 
@@ -24,8 +23,11 @@ decrease costs, and impact a company\'s bottom line.
 
 ## Understanding Supply Chains
 
-![](.//media/image2.jpg){width="6.268055555555556in"
-height="2.448611111111111in"}A supply chain involves a series of steps
+![](.//media/image2.jpg)
+
+\[4\]
+
+A supply chain involves a series of steps
 to get a product or a service to the customer. The steps include moving
 and transforming raw materials into finished products, transporting
 those products, and distributing them to the end-user. The entities
@@ -34,7 +36,7 @@ transportation companies, distribution centers, and retailers. The
 elements of a supply chain include all the functions that start with
 receiving an order to meeting the customer's request.
 
-\[4\]
+
 
 These functions include product development, marketing,
 operations, distribution network, finance, and customer service. Supply
